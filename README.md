@@ -1,4 +1,4 @@
-# SynthEval: Automated Code Review Dataset Generator with Human Validation
+S# SynthEval: Automated Code Review Dataset Generator with Human Validation
 
 ![SynthEval Banner](https://your-banner-url.png)
 
